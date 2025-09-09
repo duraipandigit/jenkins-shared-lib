@@ -1,3 +1,3 @@
 def call(){
-  jacoco()
+  echo 'Printing message instead of Jacoco'
 }
